@@ -10,8 +10,9 @@ The main functionalities of the website are:
 
 Here some screenshots:
 <div>
-    <img src="https://user-images.githubusercontent.com/74657021/188680631-f1bc549f-a618-4110-8fff-317f15e7af73.png" width="60%" height="60%"/>
+  <img src="https://user-images.githubusercontent.com/74657021/188680631-f1bc549f-a618-4110-8fff-317f15e7af73.png" width="60%" height="60%"/>
   <img src="https://user-images.githubusercontent.com/74657021/188680666-ac1d099e-2ad7-40e3-a190-f390c6fe9434.png" width="60%" height="60%"/>
   <img src="https://user-images.githubusercontent.com/74657021/188680675-d90130e1-c659-4fdf-9a25-a9718da0d932.png" width="60%" height="60%"/>
   <img src="https://user-images.githubusercontent.com/74657021/188680682-f02b6574-a18e-47f4-a61f-a389f5b2db22.png" width="60%" height="60%"/>
 </div>
+
