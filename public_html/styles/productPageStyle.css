@@ -1,0 +1,78 @@
+.box
+{
+    margin-right: 0px;
+    display: flex;
+    width: 40%;
+    align-self: center;
+    flex-direction: row;
+    justify-content: flex-start;
+    border-radius: 25px;
+    padding: 2%;
+    background: rgb(0, 0, 0, 0.9);
+    margin-top:30px;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+.barContainer
+{
+    margin-right: 40%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: flex-start;
+}
+
+.searchButtonContainer
+{	
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.textContainer
+{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.forme {
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.elements {
+    font-family: PoppinsMedium;
+    color: white;
+    font-size: 20px;
+    padding: 2px;
+    justify-content: space-between;
+}
+
+.description {
+    font-family: PoppinsMedium;
+    color: white;
+    font-size: 14px;
+    padding: 2px;
+}
+
+.image-container {
+    text-align: center;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.olderProductsBox
+{
+    display: flex;
+    flex-direction: column;
+}
+

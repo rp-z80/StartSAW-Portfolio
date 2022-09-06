@@ -1,0 +1,215 @@
+@font-face
+{
+  font-family: PoppinsMedium;
+  src: url("../fonts/PoppinsMedium.ttf");
+}
+
+.header
+{
+  background-color: white;
+  color: white;
+  text-align: center;
+}
+
+footer
+{
+  
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+body
+{
+	font-family: Arial, sans-serif;
+  margin: 0;
+  background-image: url("../images/background1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%; 
+  background-size: cover;
+  
+}
+
+h1
+{
+  font-family: PoppinsMedium;
+  text-shadow: 5px 5px 5px rgb(25,25,25);
+}
+
+.text0
+{
+  font-family: PoppinsMedium;
+  color: white;
+  display: inline;
+  font-size: 14px;
+  text-indent: -15px;
+}
+
+.text1
+{
+  font-family: PoppinsMedium;
+  color: white;
+  font-size: 25px;
+}
+
+.text2
+{
+  font-family: PoppinsMedium;
+  color: black;
+  font-size: 25px;
+  text-shadow: 5px 5px 5px rgb(25,25,25);
+}
+
+.text3
+{
+  font-family: PoppinsMedium;
+  color: black;
+  font-size: 20px;
+  text-shadow: 5px 5px 5px rgb(25,25,25);
+}
+
+.container
+{
+  width: 40%;
+  text-align: center;
+  border-radius: 25px;
+  padding: 2%;
+  background: rgba(0, 0, 0, 0.9);
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  margin-top:30px;
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+.wrap-input
+{
+	height: 40%;
+ 	width: 40%;
+	margin-left: 15%;
+  margin-bottom: 5%;
+  color: white;
+}
+
+label
+{
+  font-family: PoppinsMedium;
+  font-size: 15px;
+  display: flex;
+  justify-content: left;
+  color: white;
+}
+
+.input-label
+{
+  margin-right: 3%;
+  text-align: center;
+  padding-top: 1.5%;
+  color: white;
+}
+
+
+.button-container
+{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.login-button
+{
+  font-family: PoppinsMedium;
+  font-size: 16px;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  min-width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: white;
+  border-bottom-color: white;
+
+  -webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+button
+{
+  outline: none;
+  border:none;
+  background: transparent;
+}
+
+button:hover
+{
+	background-color: rgba(0, 0, 0, 0.9);
+	color: white;
+}
+
+input         
+{
+  font-family: PoppinsMedium;
+  font-size: 18px;
+  color: white;
+  width: 160%;
+  border: none;
+  background: rgba(0, 0, 0, 0);
+  border-bottom: 1px solid white;
+  margin-top: 4%;
+  margin-bottom: 2%;
+}
+
+main 
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+	padding: 20px;
+  margin: auto;
+	padding-top: 5%;
+  padding-bottom: 5%;
+  min-height: 100vh;
+}
+
+.box 
+{
+  text-align: left;
+  width: 100%;
+  margin-left:0%;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+.newsletterSub 
+{
+  width: 15px;
+  height: 15px;
+  padding: 5px;
+  margin: 5px;
+  vertical-align: bottom;
+  position: relative;
+  top: -1px;
+}
+
+.errormsg
+{
+  font-family: PoppinsMedium;
+  color: red;
+}
+
+textarea
+{
+  margin: 2%;
+  width: 70%;
+}
